@@ -1,2 +1,2 @@
 # atx-advisor-apollo
-Apollo : 
+Apollo : advisor bot for atx-advisor-chief
